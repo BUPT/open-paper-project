@@ -1,11 +1,16 @@
-# open-paper-project
-An Open-Paper-Project is a project that we writing paper like the developing open source project
-
-### What is an `Open Paper Project`
+# OPEN PAPER PROJECT
 
 [![Open Paper Project](https://img.shields.io/badge/%20-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
 
-An `Open Paper Project`, which I believe I'm the first person who decides to write a paper like this, is a project that:
+**Badge Code:**
+
+```md
+[![Open Paper Project](https://img.shields.io/badge/%20-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
+```
+
+## WHAT IS AN OPEN PAPER PROJECT?
+
+Open-Paper-Project is a project that we writing paper like the developing open source project, which I believe I'm the first person who decides to write a paper like this, is a project that:
 
 1. Written in MarkDown on GitHub, like this: [A Mini Review of Word Embedding in Morpho](https://github.com/zixia/paper-morpho-vector-presentation)
 1. Open for the new researcher who is interested in the paper topic to join
@@ -24,4 +29,4 @@ There's also some project called an "OPEN Open Source Project", like the [Level 
 
 ### Credit
 
-The phrase `Open Paper Project` is invented by @zixia, because there was no result of the keywords "Open Paper Project" from [Google](https://www.google.com/search?q=open+paper+project) on Sep 30, 2018.
+The phrase `Open Paper Project` is invented by [@zixia](https://github.com/zixia), because there was no result of the keywords "Open Paper Project" from [Google](https://www.google.com/search?q=open+paper+project) on Sep 30, 2018.
