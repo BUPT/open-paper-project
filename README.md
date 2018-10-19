@@ -30,6 +30,6 @@ An Open Source Project is powerful, such as the Linux Kernel, which is built fro
 
 There's also some project called an "OPEN Open Source Project", like the [Level Community](https://github.com/Level/community/blob/ff67b1c2ee90e02c352cc2fd797c3b80ac183178/CONTRIBUTING.md)
 
-### Credit
+## CREDIT
 
 The phrase `Open Paper Project` is invented by [@zixia](https://github.com/zixia), because there was no result of the keywords "Open Paper Project" from [Google](https://www.google.com/search?q=open+paper+project) on Sep 30, 2018.
