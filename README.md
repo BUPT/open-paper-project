@@ -2,14 +2,14 @@
 
 [![Open Paper Project](https://img.shields.io/badge/%20-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
 
-![Open Paper Project - Write Together](https://bupt.github.io/open-paper-project/images/write-together.jpg)
-> Credit: [The Creative Writing Corner](http://thecreativewritingcorner.blogspot.com/)
-
 **Badge Code:**
 
 ```md
 [![Open Paper Project](https://img.shields.io/badge/%20-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
 ```
+
+![Open Paper Project - Write Together](https://bupt.github.io/open-paper-project/images/write-together.jpg)
+> Credit: [The Creative Writing Corner](http://thecreativewritingcorner.blogspot.com/)
 
 ## WHAT IS AN OPEN PAPER PROJECT?
 
@@ -38,4 +38,6 @@ Add yours by creating a Pull Request to this list!
 
 ## CREDIT
 
-The phrase `Open Paper Project` is invented by [@zixia](https://github.com/zixia), because there was no result of the keywords "Open Paper Project" from [Google](https://www.google.com/search?q=open+paper+project) on Sep 30, 2018.
+The phrase `Open Paper Project` is invented by [@zixia](https://github.com/zixia), because there was no result of the keywords "Open Paper Project" from [Google](https://www.google.com/search?q=open+paper+project) on Sep 30, 2018:
+
+![Google "open paper project" on Oct 2018](https://bupt.github.io/open-paper-project/images/google-open-paper-project-oct-2018.png)
