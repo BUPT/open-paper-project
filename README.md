@@ -2,6 +2,9 @@
 
 [![Open Paper Project](https://img.shields.io/badge/%20-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
 
+![Open Paper Project - Write Together](https://bupt.github.io/open-paper-project/images/write-together.jpg)
+> Credit: [The Creative Writing Corner](http://thecreativewritingcorner.blogspot.com/)
+
 **Badge Code:**
 
 ```md
