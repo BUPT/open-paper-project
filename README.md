@@ -1,12 +1,12 @@
 # OPEN PAPER PROJECT
 
-[![Open Paper Project](https://img.shields.io/badge/%F0%9F%93%B0-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
+[![Open Paper Project](https://img.shields.io/badge/📝-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
 [![BUPT CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 
 **Badge Code:**
 
 ```md
-[![Open Paper Project](https://img.shields.io/badge/%F0%9F%93%B0-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
+[![Open Paper Project](https://img.shields.io/badge/📝-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
 ```
 
 ![Open Paper Project - Write Together](https://bupt.github.io/open-paper-project/images/write-together.jpg)
